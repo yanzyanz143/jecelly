@@ -8,12 +8,12 @@
 // ========================================
 const cakes = [
     { id: 1, name: 'Chocolate Cake', price: 550, description: 'Rich chocolate flavor, 8-inch', image: 'products/Chocolate Cake.jpg', category: 'birthday' },
-    { id: 2, name: 'Mango Cake', price: 490, description: 'Fresh mango filling, 8-inch', image: 'products/Mango Cake.png', category: 'birthday' },
+    { id: 2, name: 'Mango Cake', price: 490, description: 'Fresh mango filling, 8-inch', image: 'products/Mango Cake.jpg', category: 'birthday' },
     { id: 3, name: 'Black Forest Cake', price: 650, description: 'Classic black forest, 8-inch', image: 'products/Black Forest Cake.jpeg', category: 'anniversary' },
     { id: 4, name: 'Ube Cake', price: 580, description: 'Purple yam flavor, 8-inch', image: 'products/Ube Cake.jpg', category: 'special' },
     { id: 5, name: 'Red Velvet Cake', price: 590, description: 'Cream cheese frosting, 8-inch', image: 'products/Red Velvet Cake.jpg', category: 'wedding' },
     { id: 6, name: 'Strawberry Cake', price: 520, description: 'Fresh strawberries, 8-inch', image: 'products/Strawberry Cake.jpeg', category: 'birthday' },
-    { id: 7, name: 'Vanilla Cake', price: 440, description: 'Classic vanilla, 8-inch', image: 'products/Vanilla Cake.png', category: 'anniversary' },
+    { id: 7, name: 'Vanilla Cake', price: 440, description: 'Classic vanilla, 8-inch', image: 'products/Vanilla Cake.jpg', category: 'anniversary' },
     { id: 8, name: 'Tiramisu Cake', price: 690, description: 'Coffee and mascarpone, 8-inch', image: 'products/Tiramisu Cake.jpg', category: 'special' },
     { id: 9, name: 'Lemon Cake', price: 470, description: 'Tangy lemon flavor, 8-inch', image: 'products/Lemon Cake.jpeg', category: 'birthday' },
     { id: 10, name: 'Wedding Cake', price: 1650, description: 'Elegant 3-tier wedding cake', image: 'products/Wedding Cake.jpg', category: 'wedding' }
